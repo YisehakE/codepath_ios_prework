@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B93F59742B3D2E36006C4120 /* codepath_prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = codepath_prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B93F59742B3D2E36006C4120 /* ios_dev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios_dev.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B93F59772B3D2E36006C4120 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B93F59792B3D2E36006C4120 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B93F597B2B3D2E36006C4120 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B93F59752B3D2E36006C4120 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B93F59742B3D2E36006C4120 /* codepath_prework.app */,
+				B93F59742B3D2E36006C4120 /* ios_dev.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B93F59732B3D2E36006C4120 /* codepath_prework */ = {
+		B93F59732B3D2E36006C4120 /* ios_dev */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B93F59882B3D2E3D006C4120 /* Build configuration list for PBXNativeTarget "codepath_prework" */;
+			buildConfigurationList = B93F59882B3D2E3D006C4120 /* Build configuration list for PBXNativeTarget "ios_dev" */;
 			buildPhases = (
 				B93F59702B3D2E36006C4120 /* Sources */,
 				B93F59712B3D2E36006C4120 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = codepath_prework;
+			name = ios_dev;
 			productName = codepath_prework;
-			productReference = B93F59742B3D2E36006C4120 /* codepath_prework.app */;
+			productReference = B93F59742B3D2E36006C4120 /* ios_dev.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B93F596F2B3D2E36006C4120 /* Build configuration list for PBXProject "codepath_prework" */;
+			buildConfigurationList = B93F596F2B3D2E36006C4120 /* Build configuration list for PBXProject "ios_dev" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B93F59732B3D2E36006C4120 /* codepath_prework */,
+				B93F59732B3D2E36006C4120 /* ios_dev */,
 			);
 		};
 /* End PBXProject section */
@@ -342,7 +342,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B93F596F2B3D2E36006C4120 /* Build configuration list for PBXProject "codepath_prework" */ = {
+		B93F596F2B3D2E36006C4120 /* Build configuration list for PBXProject "ios_dev" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B93F59862B3D2E3D006C4120 /* Debug */,
@@ -351,7 +351,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B93F59882B3D2E3D006C4120 /* Build configuration list for PBXNativeTarget "codepath_prework" */ = {
+		B93F59882B3D2E3D006C4120 /* Build configuration list for PBXNativeTarget "ios_dev" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B93F59892B3D2E3D006C4120 /* Debug */,
